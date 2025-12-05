@@ -1,0 +1,9 @@
+*.h5
+*.pth
+*.ckpt
+*.npz
+*.keras
+__pycache__/
+data/
+data_old/
+
