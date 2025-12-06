@@ -7,3 +7,4 @@ text_model.py: train and save the title prediction model<br>
 fusion.py: train and save the fusion model<br>
 test.py: test the fusion model in test set<br>
 plot.py: plot the accuracy and loss<br>
+predictions_on_test.csv: test set prediction result
